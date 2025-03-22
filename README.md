@@ -1,0 +1,2 @@
+# pariselazizblog
+Personal blog project
